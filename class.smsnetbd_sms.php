@@ -1,5 +1,5 @@
 <?php
-class SMSNETBD extends NotificationModule
+class smsnetbd_sms extends NotificationModule
 {
     protected $version = "1.2025-01-01";
     protected $modname = "sms.net.bd SMS Notifications";
