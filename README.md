@@ -3,7 +3,6 @@
 This module enables **SMS notifications** in your **HostBill** application using the **SMS.NET.BD** API.  
 It allows automated SMS sending for invoices, tickets, and client updates directly from HostBill.
 
----
 
 ## 🚀 Features
 
@@ -14,7 +13,6 @@ It allows automated SMS sending for invoices, tickets, and client updates direct
 - Manual SMS sending to clients
 - Secure API-based connection
 
----
 
 ## 📦 Installation
 
@@ -37,7 +35,7 @@ It allows automated SMS sending for invoices, tickets, and client updates direct
    ```
    into the `smsnetbd_sms` directory.
 
----
+
 
 ## ⚙️ Activation in HostBill Admin
 
@@ -56,7 +54,6 @@ It allows automated SMS sending for invoices, tickets, and client updates direct
    - **Sender ID (Optional):** Obtain from [portal.sms.net.bd/sender_id](https://portal.sms.net.bd/sender_id)  
      > ⚠️ Sender ID must have *Approved* status if used.
 
----
 
 ## 🛠️ General Setup
 
@@ -65,7 +62,6 @@ It allows automated SMS sending for invoices, tickets, and client updates direct
 2. Enable notifications for **Clients** and/or **Staff Members**.
 3. Click **Save Changes**.
 
----
 
 ## ✉️ Message Templates
 
@@ -79,8 +75,6 @@ It allows automated SMS sending for invoices, tickets, and client updates direct
 3. *(Optional)* Edit SMS message templates to match your preferences.
 4. Assign the correct **App Connection** (gateway/SMS account created earlier).
 
----
-
 ## 🧩 Department-Wise Notifications
 
 To configure SMS notifications for specific support departments:
@@ -90,7 +84,6 @@ To configure SMS notifications for specific support departments:
 2. Under **Notification**, set up **Mobile Notifications**.
 3. Enable SMS notifications for the selected department.
 
----
 
 ## 📤 Sending Individual SMS
 
@@ -102,20 +95,17 @@ To send a message to a specific client or new number:
    `Settings → System Settings → General Settings → Mobile Notification`
 3. Send your custom SMS instantly.
 
----
 
 ## ✅ Integration Complete
 
 Your **HostBill** installation is now fully integrated with **SMS.NET.BD** for automated and manual SMS notifications!
 
----
 
 ## 🧾 License
 
 This module is licensed under the **MIT License**.  
 See [LICENSE](./LICENSE) for more details.
 
----
 
 ## 💬 Support
 
