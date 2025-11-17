@@ -82,8 +82,9 @@ It allows automated SMS sending for invoices, tickets, and client updates direct
 1. Go to:  
    `Settings → Message Template`
 2. Enable SMS notifications for desired events, such as:
-   - Invoice Created  
-   - Invoice Paid  
+   - New Invoice
+   - Overdue Invoice 
+   - Paid Invoice
    - Support Ticket Reply  
    - ...and more.
 3. *(Optional)* Edit SMS message templates to match your preferences.
