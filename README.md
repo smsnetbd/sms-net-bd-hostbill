@@ -13,6 +13,20 @@ It allows automated SMS sending for invoices, tickets, and client updates direct
 - Manual SMS sending to clients
 - Secure API-based connection
 
+### 📝 Notification Capabilities
+#### Notify Clients about:
+- Billing-related events
+- Support-ticket events (new ticket, new reply etc.)
+- Hosting accounts events (new passwords, account created)
+- Domain events - renewals, expirations
+#### Notify staff about:
+- Billing-related events
+- Support events (new ticket, new reply etc.)
+- New orders
+- Failed logins
+- Automation failures
+- Incoming payments
+
 
 ## 📦 Installation
 
