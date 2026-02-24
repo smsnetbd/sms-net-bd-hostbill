@@ -1,12 +1,12 @@
-# 📱 SMS.NET.BD - HostBill SMS Notification Module
+# 📱 SMS.BD - HostBill SMS Notification Module
 
-This module enables **SMS notifications** in your **HostBill** application using the **SMS.NET.BD** API.  
+This module enables **SMS notifications** in your **HostBill** application using the **sms.bd** API.  
 It allows automated SMS sending for invoices, tickets, and client updates directly from HostBill.
 
 
 ## 🚀 Features
 
-- Seamless integration with [SMS.NET.BD](https://sms.net.bd)
+- Seamless integration with [sms.bd](https://sms.bd)
 - Supports both **Client** and **Staff** notifications
 - Customizable **message templates**
 - Department-wise notification setup
@@ -64,8 +64,8 @@ It allows automated SMS sending for invoices, tickets, and client updates direct
 4. Create a new app connection with:
    - **Application:** SMS NET BD SMS Notifications  
    - **Name:** *(any custom name)*  
-   - **API Key:** Obtain from [portal.sms.net.bd/api](https://portal.sms.net.bd/api)  
-   - **Sender ID (Optional):** Obtain from [portal.sms.net.bd/sender_id](https://portal.sms.net.bd/sender_id)  
+   - **API Key:** Obtain from [portal.sms.bd/api](https://portal.sms.bd/api)  
+   - **Sender ID (Optional):** Obtain from [portal.sms.bd/sender_id](https://portal.sms.bd/sender_id)  
      > ⚠️ Sender ID must have *Approved* status if used.
 
 
@@ -113,7 +113,7 @@ To send a message to a specific client or new number:
 
 ## ✅ Integration Complete
 
-Your **HostBill** installation is now fully integrated with **SMS.NET.BD** for automated and manual SMS notifications!
+Your **HostBill** installation is now fully integrated with **sms.bd** for automated and manual SMS notifications!
 
 
 ## 🧾 License
@@ -125,6 +125,6 @@ See [LICENSE](./LICENSE) for more details.
 ## 💬 Support
 
 For support or inquiries, visit:  
-👉 [https://sms.net.bd/contact](https://sms.net.bd/contact/)  
+👉 [https://sms.bd/contact](https://sms.bd/contact/)  
 
 
