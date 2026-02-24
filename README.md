@@ -64,8 +64,8 @@ It allows automated SMS sending for invoices, tickets, and client updates direct
 4. Create a new app connection with:
    - **Application:** SMS NET BD SMS Notifications  
    - **Name:** *(any custom name)*  
-   - **API Key:** Obtain from [portal.sms.bd/api](https://portal.sms.bd/api)  
-   - **Sender ID (Optional):** Obtain from [portal.sms.bd/sender_id](https://portal.sms.bd/sender_id)  
+   - **API Key:** Obtain from [portal.sms.bd/api](https://portal.sms.net.bd/api)  
+   - **Sender ID (Optional):** Obtain from [portal.sms.bd/sender_id](https://portal.sms.net.bd/sender_id)  
      > ⚠️ Sender ID must have *Approved* status if used.
 
 
